@@ -1,0 +1,27 @@
+{
+  "name": "express-jwt-app",
+  "version": "1.0.0",
+  "description": "An Express app that uses JWT-based authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usman-tahir/express-jwt-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usman-tahir/express-jwt-app/issues"
+  },
+  "homepage": "https://github.com/usman-tahir/express-jwt-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.0",
+    "express": "^4.15.4",
+    "jsonwebtoken": "^8.0.0",
+    "mongoose": "^4.11.11",
+    "morgan": "^1.8.2"
+  }
+}
